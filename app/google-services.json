@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814909037946",
+    "firebase_url": "https://journal-2be18.firebaseio.com",
+    "project_id": "journal-2be18",
+    "storage_bucket": "journal-2be18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814909037946:android:0c0dc7f1ac531dbc",
+        "android_client_info": {
+          "package_name": "com.shutto.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814909037946-43be5ht6fddoseu71co4v0pqhib2am46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shutto.journal",
+            "certificate_hash": "f5c0f77c588bafa123f59560c2dc47d49b62a0b0"
+          }
+        },
+        {
+          "client_id": "814909037946-klbkkch68a1pajqaolo0e3tj6c7vuvin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawkaKm27OmiiK4jh_QZZLT7BhvGP3jek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814909037946-klbkkch68a1pajqaolo0e3tj6c7vuvin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
