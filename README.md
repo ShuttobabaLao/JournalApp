@@ -10,3 +10,5 @@
   At the moment the app has no login yet, whereby the login activity will be created and updated.
   The UI will also have a different experience in the future updates.
  
+#Link to APK file 
+ You can dwonload the apk file: https://goo.gl/QzTP1E
